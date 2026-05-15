@@ -1,13 +1,13 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Halal Rizq — Earn Extra Halal Income in Lagos',
+  title: 'Halal Rizq Nigeria — Shop Quality Mobile Accessories on Jumia',
   description:
-    'Discover simple, Shariah-compliant side hustles that regular Muslims are using to make ₦50,000–₦150,000+ monthly from their phone.',
+    'Shop wireless earbuds and power banks through our transparent Jumia JForce affiliate links. No extra cost to you. Promoting halal commerce with barakah.',
   openGraph: {
-    title: 'Halal Rizq — Earn Extra Halal Income in Lagos',
+    title: 'Halal Rizq Nigeria — Shop Quality Mobile Accessories on Jumia',
     description:
-      'Shariah-compliant side hustles making ₦50k–₦150k+ monthly. No riba. No gambling. Pure barakah.',
+      'Reliable mobile accessories for daily life in Lagos. 100% transparent affiliate links. No extra cost to you.',
     type: 'website',
   },
 };
